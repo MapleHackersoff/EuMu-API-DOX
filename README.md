@@ -4,12 +4,4 @@
 # First selfbot
 # RU
 # 2DO
-|Function|
-|---------------------------------------------------------------------|
-|[X] Send to specific channel|
-|[X] Join guild|
-|[X] Dox link|
-|[] Full Dox|
-|[] leaveGuild|
-|[] joinVC|
-|[] leaveVC|
+to do list now is only in our guilded srver sry. https://guilded.gg/Eutemuin
